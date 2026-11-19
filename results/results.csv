@@ -1,0 +1,2 @@
+dataset,split,experiment,accuracy,macro_f1
+acm,de,swapgt_mlp,0.3143989431968296,0.2926880692335037
